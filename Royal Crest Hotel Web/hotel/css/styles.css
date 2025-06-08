@@ -1,0 +1,31 @@
+    .booking-bar {
+      background:#f2c82e ;
+      border: 1px solid #ddd;
+      padding: 18px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      align-items: center;
+    }
+
+    .booking-bar .form-control,
+    .booking-bar .form-select {
+      min-width: 200px;
+    }
+
+    .find-btn {
+      background-color:rgb(35, 116, 245);
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      font-weight: bold;
+    }
+
+    .find-btn:hover {
+      background-color:rgb(35, 116, 245);
+    }
+
+            .logo {
+      font-size: 24px;
+      font-weight: bold;
+    }
